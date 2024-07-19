@@ -3,7 +3,7 @@ Course Projects, Artificial Intelligence by Dr. Fadaei &amp; Dr. Yaghoobzadeh, S
 ### __Topics :__
 1. Genetic Algorithm
 2. Hidden Markov Models
-3. Clusteribg
+3. Clustering
 4. Machine Learning
 5. Convolutional Neural Networks
 6. Reinforcement Learning
